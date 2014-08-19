@@ -1,3 +1,3 @@
 screenfly.js
 =========
-screenfly.js is a small utility class. It can apply styles on the fly dpending on the browser size. It is extemely accurate.
+screenfly.js is a small utility class. It can apply styles on the fly to DOM elements (using their IDs and classes) depending on the browser size. It is extemely accurate.
